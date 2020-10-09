@@ -1,5 +1,5 @@
 # 🙌 Hacktoberfest
-
+### What is Hacktoberfest?
 This is a #Hacktoberfest training git repo on GitHub. It contains resources for learning Git. 99% of the contributions in this repository are from different first time beginners just like you. So, jump right in! 🎯
 
 [Meetup Event](https://www.meetup.com/DigitalOceanLahore/events/244307272/) sponsorship [DigitalOcean →](https://www.digitalocean.com/)
